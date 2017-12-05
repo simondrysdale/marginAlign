@@ -1,0 +1,5 @@
+git clone https://github.com/benedictpaten/marginAlign.git
+cd marginAlign
+git pull
+git submodule update --init
+make
